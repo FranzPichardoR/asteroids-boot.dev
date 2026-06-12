@@ -12,3 +12,4 @@ wheels/
 # Loggin file
 game_state.jsonl
 
+game_events.jsonl
